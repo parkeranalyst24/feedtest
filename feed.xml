@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <entry>
     <id>bx293482348745</id>
-    <title>The National Map - National Land Cover Database (NLCD) WMS</title>
+    <title>Parker Test</title>
     <serviceType>wms</serviceType>
     <serviceUrl>http://raster.nationalmap.gov/ArcGIS/services/TNM_LandCover/MapServer/WMSServer?request=GetCapabilities&service=WMS</serviceUrl>
     <emailAddress>analyst@bugcrowdanalyst.com</emailAddress>
