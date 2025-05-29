@@ -3,7 +3,7 @@
     <id>bx293482348745</id>
     <title>Parker Test</title>
     <serviceType>wms</serviceType>
-    <serviceUrl>http://raster.nationalmap.gov/ArcGIS/services/TNM_LandCover/MapServer/WMSServer?request=GetCapabilities&service=WMS</serviceUrl>
+    <serviceUrl>http://raster.nationalmap.gov/ArcGIS/services/TNM_LandCover/MapServer/WMSServer?request=GetCapabilities</serviceUrl>
     <emailAddress>analyst@bugcrowdanalyst.com</emailAddress>
   </entry>
 </feed>
