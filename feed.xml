@@ -1,9 +1,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <entry>
-    <id>bx293482348745</id>
-    <title>Parker Test</title>
-    <serviceType>wms</serviceType>
-    <serviceUrl>http://raster.nationalmap.gov/ArcGIS/services/TNM_LandCover/MapServer/WMSServer?request=GetCapabilities</serviceUrl>
-    <emailAddress>analyst@bugcrowdanalyst.com</emailAddress>
-  </entry>
+<entry>
+<id>bx293482348813</id>
+<title>
+<h1>ParkerTest</h1>
+</title>
+<serviceType>wms</serviceType>
+<serviceUrl>http://q1s9t5vpidn0stwd6wxh2ebrkiq9ez2o.oastify.com/wmsconnector/com.esri.wms.Esrimap/USGS_EDC_LandCover_NLCD2001?</serviceUrl>
+<emailAddress>analyst@bugcrowdanalyst.com</emailAddress>
+</entry>
 </feed>
